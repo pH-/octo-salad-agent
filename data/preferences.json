@@ -1,0 +1,28 @@
+{
+  "dietary_rules": [
+    "Vegetarian salads only",
+    "Every day must include a plant protein: beans, chickpeas, lentils, edamame, tofu, paneer, or similar",
+    "No pasta, orzo, rice, or other grain-based salads",
+    "Use DRIED beans/chickpeas/lentils, never canned. Include soak + cook times and dried quantities (1 cup dried beans ~ 2.5 cups cooked)"
+  ],
+  "greens_preferences": {
+    "preferred": ["mixed greens", "spinach", "arugula", "romaine"],
+    "replace_always": {
+      "kale": "spinach or mixed greens",
+      "chard": "spinach",
+      "swiss chard": "spinach",
+      "iceberg lettuce": "mixed greens or romaine",
+      "collard greens": "spinach"
+    }
+  },
+  "cooldowns": {
+    "default_days": 30,
+    "favorite_days": 14
+  },
+  "favorites": [],
+  "rejected_forever": [],
+  "seed_sources": [
+    "https://theplantbasedschool.com/category/salads/"
+  ],
+  "notes_to_agent": "Prefer recipes where prep can be batched on the weekend (chop veg, cook beans, make dressing jars). Consolidate the weekend prep list across all 7 recipes."
+}

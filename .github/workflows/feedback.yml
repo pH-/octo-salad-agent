@@ -1,0 +1,39 @@
+name: Process recipe feedback
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  feedback:
+    if: |
+      startsWith(github.event.issue.title, 'reject:') ||
+      startsWith(github.event.issue.title, 'favorite:') ||
+      startsWith(github.event.issue.title, 'unfavorite:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update preferences
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        run: python scripts/process_feedback.py
+
+      - name: Commit and close issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "salad-agent"
+          git config user.email "actions@github.com"
+          git add data/preferences.json
+          git diff --cached --quiet || git commit -m "${{ github.event.issue.title }}"
+          git push
+          gh issue close ${{ github.event.issue.number }} --comment "✅ Preferences updated."
