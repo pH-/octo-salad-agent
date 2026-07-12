@@ -1,0 +1,379 @@
+{
+  "week_of": "2026-07-13",
+  "menu": [
+    {
+      "day": "Monday",
+      "name": "Mediterranean Chickpea Salad with Lemon-Dijon Dressing",
+      "url": "https://www.themediterraneandish.com/chickpea-salad/",
+      "protein": "chickpeas",
+      "substitutions": "",
+      "ingredients": [
+        "2 cups cooked chickpeas (from 3/4 cup dried chickpeas)",
+        "1 English cucumber, diced",
+        "1 cup cherry tomatoes, halved",
+        "1/2 cup roasted red peppers, diced",
+        "1/2 red onion, diced",
+        "1/2 cup kalamata olives, pitted and halved",
+        "1 avocado, diced",
+        "1/4 cup fresh parsley, chopped",
+        "1/4 cup fresh mint, chopped",
+        "3 cups mixed greens or arugula",
+        "3 tablespoons extra virgin olive oil",
+        "3 tablespoons fresh lemon juice",
+        "2 cloves garlic, minced",
+        "1 tablespoon Dijon mustard",
+        "1 teaspoon sumac",
+        "1/2 teaspoon Aleppo pepper or red pepper flakes",
+        "Salt and black pepper to taste"
+      ],
+      "night_of_steps_list": [
+        "Dice cucumber, tomatoes, peppers, onion, and herbs",
+        "Whisk together dressing ingredients",
+        "Combine cooked chickpeas with vegetables in large bowl",
+        "Add mixed greens, toss with dressing, top with avocado"
+      ],
+      "agent_notes": [
+        "Chickpeas soaked Saturday night, cooked Sunday",
+        "Dressing can be made in advance and stored separately"
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "name": "French Lentil Salad with Cucumber and Herbs",
+      "url": "https://www.loveandlemons.com/lentil-salad/",
+      "protein": "French green lentils",
+      "substitutions": "Replace kale with spinach or mixed greens",
+      "ingredients": [
+        "1 cup dried French green lentils (yields ~2.5 cups cooked)",
+        "1 bay leaf",
+        "1 English cucumber, diced",
+        "1 cup cherry tomatoes, halved",
+        "3 radishes, thinly sliced",
+        "1/4 cup red onion, diced",
+        "2 cups spinach or mixed greens, chopped",
+        "1/2 cup green olives, pitted and halved",
+        "1/4 cup fresh parsley, chopped",
+        "1/4 cup fresh mint, chopped",
+        "1/4 cup feta cheese, crumbled (optional)",
+        "3 tablespoons extra virgin olive oil",
+        "3 tablespoons fresh lemon juice",
+        "1 clove garlic, minced",
+        "Salt and black pepper to taste"
+      ],
+      "night_of_steps_list": [
+        "Cook lentils in salted water with bay leaf for 17-20 minutes until al dente, drain and cool",
+        "Dice cucumber, tomatoes, radishes, onion, and chop herbs",
+        "Whisk together dressing ingredients",
+        "Combine all ingredients and toss with dressing"
+      ],
+      "agent_notes": [
+        "Lentils don't require soaking - cook night-of for best texture",
+        "Can prep vegetables in advance"
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "name": "Crispy Tofu Salad with Lemon Herb Dressing",
+      "url": "https://foodwithfeeling.com/tofu-salad/",
+      "protein": "tofu",
+      "substitutions": "",
+      "ingredients": [
+        "14 oz extra-firm tofu, pressed and cubed",
+        "2 tablespoons olive oil (for tofu)",
+        "1 tablespoon lemon juice (for marinade)",
+        "1 tablespoon balsamic vinegar",
+        "1 tablespoon maple syrup",
+        "2 cloves garlic, minced",
+        "Salt to taste",
+        "6 cups romaine lettuce, chopped",
+        "1 English cucumber, sliced thin",
+        "1 cup cherry tomatoes, halved",
+        "1 avocado, diced",
+        "1/4 cup sliced almonds, toasted",
+        "3 tablespoons extra virgin olive oil (for dressing)",
+        "2 tablespoons fresh lemon juice",
+        "1 tablespoon fresh basil, chopped",
+        "1 tablespoon fresh parsley, chopped",
+        "1 teaspoon maple syrup",
+        "Salt and pepper to taste"
+      ],
+      "night_of_steps_list": [
+        "Press tofu for 20 minutes, cube and marinate in lemon juice, balsamic, maple syrup, garlic, and salt",
+        "Pan-fry marinated tofu in olive oil until golden and crispy on all sides",
+        "Chop romaine, slice cucumber, halve tomatoes",
+        "Make dressing by whisking together oil, lemon juice, herbs, maple syrup, salt, and pepper",
+        "Toss lettuce and vegetables with dressing, top with crispy tofu, avocado, and almonds"
+      ],
+      "agent_notes": [
+        "Tofu needs to be cooked night-of for best texture",
+        "Can press tofu and prep vegetables in advance"
+      ]
+    },
+    {
+      "day": "Thursday",
+      "name": "Edamame Crunch Salad with Sesame Dressing",
+      "url": "https://www.ambitiouskitchen.com/asian-edamame-salad-with-cilantro-and-toasted-almonds/",
+      "protein": "edamame",
+      "substitutions": "",
+      "ingredients": [
+        "2 cups shelled edamame (frozen, thawed)",
+        "2 cups red cabbage, shredded",
+        "1 English cucumber, diced",
+        "1 red bell pepper, diced",
+        "1 cup shredded carrots",
+        "3 green onions, sliced",
+        "1/4 cup fresh cilantro, chopped",
+        "4 cups mixed greens or spinach",
+        "1/4 cup sliced almonds, toasted",
+        "2 tablespoons sesame seeds, toasted",
+        "3 tablespoons soy sauce or tamari",
+        "2 tablespoons rice vinegar",
+        "1 tablespoon toasted sesame oil",
+        "2 tablespoons olive oil",
+        "1 tablespoon maple syrup",
+        "1 teaspoon fresh ginger, grated",
+        "2 cloves garlic, minced"
+      ],
+      "night_of_steps_list": [
+        "Thaw frozen edamame (or cook for 4 minutes in boiling water, drain and cool)",
+        "Shred cabbage, dice cucumber and bell pepper, shred carrots, slice green onions",
+        "Make dressing by whisking soy sauce, rice vinegar, sesame oil, olive oil, maple syrup, ginger, and garlic",
+        "Combine all vegetables and edamame in bowl, toss with dressing",
+        "Top with toasted almonds and sesame seeds"
+      ],
+      "agent_notes": [
+        "Can prep all vegetables in advance",
+        "Toast almonds and sesame seeds ahead"
+      ]
+    },
+    {
+      "day": "Friday",
+      "name": "Black Bean and Corn Salad with Lime Dressing",
+      "url": "https://cookieandkate.com/black-bean-salad-recipe/",
+      "protein": "black beans",
+      "substitutions": "",
+      "ingredients": [
+        "3 cups cooked black beans (from 1 1/4 cups dried black beans)",
+        "2 ears fresh corn, kernels removed (or 1.5 cups frozen corn)",
+        "1 cup cherry tomatoes, halved",
+        "1 red bell pepper, diced",
+        "1/4 red onion, diced",
+        "1 jalape\u00f1o, finely chopped (seeds removed for mild)",
+        "1/4 cup fresh cilantro, chopped",
+        "4 cups mixed greens or romaine",
+        "1 avocado, diced",
+        "Zest of 1 lime",
+        "3 tablespoons fresh lime juice",
+        "2 tablespoons white wine vinegar",
+        "3 tablespoons extra virgin olive oil",
+        "1/2 teaspoon cumin",
+        "1/4 teaspoon chili powder",
+        "Salt and black pepper to taste"
+      ],
+      "night_of_steps_list": [
+        "If using fresh corn, boil for 3-4 minutes, cool, and cut kernels off cob",
+        "Dice tomatoes, bell pepper, onion, jalape\u00f1o, and chop cilantro",
+        "Whisk together lime zest, lime juice, vinegar, olive oil, cumin, chili powder, salt, and pepper",
+        "Combine black beans, corn, and all vegetables (except avocado)",
+        "Toss with dressing, serve over greens, top with fresh avocado"
+      ],
+      "agent_notes": [
+        "Black beans soaked Saturday night, cooked Sunday",
+        "Can prep all components in advance except avocado"
+      ]
+    },
+    {
+      "day": "Saturday",
+      "name": "Mediterranean White Bean Salad with Lemon and Herbs",
+      "url": "https://www.thefieryvegetarian.com/easy-mediterranean-white-bean-salad/",
+      "protein": "white beans (cannellini)",
+      "substitutions": "",
+      "ingredients": [
+        "3 cups cooked white beans/cannellini (from 1 1/4 cups dried beans)",
+        "1 English cucumber, diced",
+        "1 cup cherry tomatoes, halved",
+        "1/2 red onion, diced",
+        "1/2 cup green olives, pitted and halved",
+        "1/4 cup fresh parsley, chopped",
+        "1/4 cup fresh basil, chopped",
+        "4 cups arugula or mixed greens",
+        "1/4 cup sun-dried tomatoes in oil, diced",
+        "3 tablespoons extra virgin olive oil",
+        "2 tablespoons red wine vinegar",
+        "2 tablespoons fresh lemon juice",
+        "2 cloves garlic, minced",
+        "1 teaspoon dried oregano",
+        "Salt and black pepper to taste"
+      ],
+      "night_of_steps_list": [
+        "Dice cucumber, tomatoes, onion, sun-dried tomatoes, and chop herbs",
+        "Whisk together olive oil, vinegar, lemon juice, garlic, oregano, salt, and pepper",
+        "Combine white beans with all vegetables in large bowl",
+        "Toss with dressing and let marinate 10-15 minutes",
+        "Serve over bed of arugula or mixed greens"
+      ],
+      "agent_notes": [
+        "White beans soaked Saturday night, cooked Sunday",
+        "Salad gets better after chilling - can make ahead"
+      ]
+    },
+    {
+      "day": "Sunday",
+      "name": "Mediterranean Lentil and Arugula Salad",
+      "url": "https://rainbowplantlife.com/lentil-salad/",
+      "protein": "French green lentils",
+      "substitutions": "",
+      "ingredients": [
+        "1 cup dried French green lentils (yields ~2.5 cups cooked)",
+        "1 bay leaf",
+        "4 cups arugula",
+        "1 English cucumber, diced",
+        "1 red bell pepper, diced",
+        "3 green onions, sliced",
+        "1/4 cup fresh parsley, chopped",
+        "1/4 cup fresh mint, chopped",
+        "1/4 cup fresh basil, chopped",
+        "1/4 cup toasted walnuts, chopped",
+        "3 tablespoons extra virgin olive oil",
+        "2 tablespoons fresh lemon juice",
+        "1 tablespoon red wine vinegar",
+        "2 cloves garlic, minced",
+        "1/2 teaspoon cumin",
+        "Salt and black pepper to taste"
+      ],
+      "night_of_steps_list": [
+        "Cook lentils in salted water with bay leaf for 17-20 minutes until al dente, drain",
+        "While lentils are still warm, toss with olive oil, lemon juice, vinegar, garlic, cumin, salt, and pepper",
+        "Let cool slightly (5-10 minutes)",
+        "Dice cucumber and bell pepper, slice green onions, chop herbs",
+        "Add fresh arugula and all vegetables to lentils, toss gently",
+        "Top with toasted walnuts"
+      ],
+      "agent_notes": [
+        "Lentils cook quickly without soaking",
+        "Dress warm lentils for maximum flavor absorption"
+      ]
+    }
+  ],
+  "weekend_prep": {
+    "saturday": [
+      "Sort and rinse dried chickpeas (3/4 cup), black beans (1 1/4 cups), and white beans (1 1/4 cups)",
+      "Place chickpeas in one bowl, black beans in another, white beans in a third",
+      "Cover each with water (at least 3 inches above beans)",
+      "Soak overnight (12 hours) at room temperature",
+      "Toast almonds (1/2 cup total) and sesame seeds (2 tablespoons) - store in airtight container"
+    ],
+    "sunday": [
+      "COOK CHICKPEAS: Drain and rinse soaked chickpeas, place in pot with fresh water covering by 2 inches, bring to boil, reduce to simmer 60-90 minutes until tender, drain and cool (yields ~2 cups cooked)",
+      "COOK BLACK BEANS: Drain and rinse soaked black beans, place in pot with fresh water covering by 2 inches, bring to boil, reduce to simmer 60-90 minutes until tender, drain and cool (yields ~3 cups cooked)",
+      "COOK WHITE BEANS: Drain and rinse soaked white beans, place in pot with fresh water covering by 2 inches, bring to boil, reduce to simmer 60-90 minutes until tender, drain and cool (yields ~3 cups cooked)",
+      "Store all cooked beans separately in airtight containers in refrigerator",
+      "Make dressing for Monday (Mediterranean chickpea): whisk together 3 tbsp olive oil, 3 tbsp lemon juice, 2 cloves minced garlic, 1 tbsp Dijon, spices - store in jar",
+      "Wash and prep greens: wash 20 cups mixed greens/spinach/arugula/romaine total, spin dry, store in containers with paper towels",
+      "Prep aromatics: dice 1 large red onion (store in water), mince 10 cloves garlic total (store in olive oil)",
+      "Chop herbs in advance if desired: parsley, mint, basil, cilantro - wrap in damp paper towels, store in bags",
+      "Make additional dressings and store in jars (optional for time-saving)"
+    ]
+  },
+  "bean_schedule": [
+    {
+      "bean": "chickpeas",
+      "dried_amount": "3/4 cup",
+      "soak": "Saturday evening (9pm), 12 hours",
+      "cook": "Sunday morning/afternoon, simmer 60-90 minutes until tender but not mushy",
+      "used_in": [
+        "Monday - Mediterranean Chickpea Salad"
+      ]
+    },
+    {
+      "bean": "black beans",
+      "dried_amount": "1 1/4 cups",
+      "soak": "Saturday evening (9pm), 12 hours",
+      "cook": "Sunday morning/afternoon, simmer 60-90 minutes until tender but not mushy",
+      "used_in": [
+        "Friday - Black Bean and Corn Salad"
+      ]
+    },
+    {
+      "bean": "white beans/cannellini",
+      "dried_amount": "1 1/4 cups",
+      "soak": "Saturday evening (9pm), 12 hours",
+      "cook": "Sunday morning/afternoon, simmer 60-90 minutes until tender but not mushy",
+      "used_in": [
+        "Saturday - Mediterranean White Bean Salad"
+      ]
+    },
+    {
+      "bean": "French green lentils",
+      "dried_amount": "2 cups total (1 cup each for Tuesday and Sunday)",
+      "soak": "Not required for lentils",
+      "cook": "Cook night-of for best texture: 17-20 minutes in salted water",
+      "used_in": [
+        "Tuesday - French Lentil Salad",
+        "Sunday - Mediterranean Lentil Salad"
+      ]
+    }
+  ],
+  "shopping_list": {
+    "produce": [
+      "6 English cucumbers",
+      "4 pints cherry tomatoes",
+      "4 red bell peppers",
+      "1 yellow bell pepper",
+      "2 large red onions",
+      "6 green onions/scallions",
+      "3 radishes",
+      "2 cups red cabbage",
+      "2 cups shredded carrots",
+      "2 ears fresh corn (or 1.5 cups frozen corn)",
+      "3 avocados",
+      "2 lemons (for juice and zest)",
+      "4 limes",
+      "20 cups mixed greens/spinach/arugula/romaine (total for week)",
+      "1 bunch fresh parsley",
+      "1 bunch fresh mint",
+      "1 bunch fresh basil",
+      "1 bunch fresh cilantro",
+      "1 bunch fresh dill (if making dill version)",
+      "Fresh ginger root (1-2 inches)"
+    ],
+    "dried_beans_legumes": [
+      "3/4 cup dried chickpeas",
+      "1 1/4 cups dried black beans",
+      "1 1/4 cups dried white beans/cannellini",
+      "2 cups dried French green lentils"
+    ],
+    "dairy_and_other": [
+      "14 oz extra-firm tofu (for Wednesday)",
+      "2 cups shelled edamame (frozen)",
+      "1/2 cup feta cheese (optional, for Tuesday)",
+      "1/2 cup sliced almonds",
+      "1/4 cup walnuts"
+    ],
+    "pantry_check": [
+      "Extra virgin olive oil (at least 2 cups)",
+      "Soy sauce or tamari",
+      "Toasted sesame oil",
+      "Balsamic vinegar",
+      "Red wine vinegar",
+      "White wine vinegar",
+      "Rice vinegar",
+      "Dijon mustard",
+      "Maple syrup or agave",
+      "Sesame seeds",
+      "Kalamata olives (1 jar)",
+      "Green olives (1 jar)",
+      "Sun-dried tomatoes in oil (1 small jar)",
+      "Roasted red peppers (1 jar)",
+      "Bay leaves",
+      "Dried oregano",
+      "Ground cumin",
+      "Chili powder",
+      "Smoked paprika",
+      "Sumac (optional but recommended)",
+      "Aleppo pepper or red pepper flakes",
+      "Garlic (2 bulbs)",
+      "Salt and black pepper"
+    ]
+  }
+}

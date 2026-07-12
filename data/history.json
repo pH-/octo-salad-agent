@@ -1,3 +1,45 @@
 {
-  "weeks": []
+  "weeks": [
+    {
+      "week_of": "2026-07-13",
+      "generated_on": "2026-07-12",
+      "recipes": [
+        {
+          "day": "Monday",
+          "name": "Mediterranean Chickpea Salad with Lemon-Dijon Dressing",
+          "url": "https://www.themediterraneandish.com/chickpea-salad/"
+        },
+        {
+          "day": "Tuesday",
+          "name": "French Lentil Salad with Cucumber and Herbs",
+          "url": "https://www.loveandlemons.com/lentil-salad/"
+        },
+        {
+          "day": "Wednesday",
+          "name": "Crispy Tofu Salad with Lemon Herb Dressing",
+          "url": "https://foodwithfeeling.com/tofu-salad/"
+        },
+        {
+          "day": "Thursday",
+          "name": "Edamame Crunch Salad with Sesame Dressing",
+          "url": "https://www.ambitiouskitchen.com/asian-edamame-salad-with-cilantro-and-toasted-almonds/"
+        },
+        {
+          "day": "Friday",
+          "name": "Black Bean and Corn Salad with Lime Dressing",
+          "url": "https://cookieandkate.com/black-bean-salad-recipe/"
+        },
+        {
+          "day": "Saturday",
+          "name": "Mediterranean White Bean Salad with Lemon and Herbs",
+          "url": "https://www.thefieryvegetarian.com/easy-mediterranean-white-bean-salad/"
+        },
+        {
+          "day": "Sunday",
+          "name": "Mediterranean Lentil and Arugula Salad",
+          "url": "https://rainbowplantlife.com/lentil-salad/"
+        }
+      ]
+    }
+  ]
 }
