@@ -1,7 +1,8 @@
 # 🥗 Salad Agent
 
-An agent that emails you a vegetarian salad dinner menu every Friday, with a weekend
-prep plan (including a dried-bean soak/cook schedule) and a shopping list.
+An agent that publishes a vegetarian salad dinner menu to a GitHub Pages site every
+Friday: a week overview with prep plan, dried-bean soak/cook schedule, shopping list,
+and one page per day with full ingredients and interactive buttons.
 
 ## How it works
 

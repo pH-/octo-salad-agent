@@ -1,0 +1,38 @@
+name: Handle recipe requests
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  request:
+    if: |
+      startsWith(github.event.issue.title, 'replace:') ||
+      startsWith(github.event.issue.title, 'substitute:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Process request
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/handle_request.py
+      - name: Commit, reply, close
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "salad-agent"
+          git config user.email "actions@github.com"
+          git add data/ docs/
+          git diff --cached --quiet || git commit -m "Request: ${{ github.event.issue.title }}"
+          git push
+          gh issue close ${{ github.event.issue.number }} --comment-file reply.md

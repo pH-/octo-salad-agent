@@ -2,9 +2,8 @@ name: Weekly salad menu
 
 on:
   schedule:
-    # Every Friday 16:00 UTC — adjust to your timezone (cron is always UTC)
-    - cron: "0 16 * * 5"
-  workflow_dispatch: {}   # lets you run it manually from the Actions tab
+    - cron: "0 16 * * 5"   # Friday 16:00 UTC — adjust to taste
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -14,23 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
-      - name: Generate menu and send email
+      - name: Generate menu and build site
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
         run: python scripts/generate_menu.py
-
-      - name: Commit updated history
+      - name: Commit menu, history, and site
         run: |
           git config user.name "salad-agent"
           git config user.email "actions@github.com"
-          git add data/history.json
-          git diff --cached --quiet || git commit -m "Add menu for next week"
+          git add data/ docs/
+          git diff --cached --quiet || git commit -m "Menu for next week"
           git push
