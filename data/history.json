@@ -40,6 +40,47 @@
           "url": "https://rainbowplantlife.com/lentil-salad/"
         }
       ]
+    },
+    {
+      "week_of": "2026-07-20",
+      "generated_on": "2026-07-17",
+      "recipes": [
+        {
+          "day": "Monday",
+          "name": "Tuscan White Bean Salad with Za'atar",
+          "url": "https://www.themediterraneandish.com/tuscan-white-bean-salad/"
+        },
+        {
+          "day": "Tuesday",
+          "name": "Lentil and Chickpea Salad with Radish and Herbs",
+          "url": "https://cookieandkate.com/lemony-lentil-and-chickpea-salad-with-radish-and-herbs/"
+        },
+        {
+          "day": "Wednesday",
+          "name": "Crispy Baked Tofu Salad with Tahini Dressing",
+          "url": "https://theplantbasedschool.com/tofu-salad/"
+        },
+        {
+          "day": "Thursday",
+          "name": "Mediterranean Kidney Bean Salad with Lemon-Garlic Dressing",
+          "url": "https://avirtualvegan.com/kidney-bean-salad-lemon-parsley/"
+        },
+        {
+          "day": "Friday",
+          "name": "Paneer Salad with Spicy Greek Yogurt Dressing",
+          "url": "https://www.indianveggiedelight.com/paneer-salad/"
+        },
+        {
+          "day": "Saturday",
+          "name": "Edamame Rainbow Salad with Sesame Ginger Dressing",
+          "url": "https://www.ambitiouskitchen.com/asian-edamame-salad-with-cilantro-and-toasted-almonds/"
+        },
+        {
+          "day": "Sunday",
+          "name": "Green Lentil Salad with Za'atar and Roasted Red Peppers",
+          "url": "https://feelgoodfoodie.net/recipe/lentil-salad/"
+        }
+      ]
     }
   ]
 }
