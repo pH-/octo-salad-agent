@@ -1,357 +1,351 @@
 {
-  "week_of": "2026-07-20",
+  "week_of": "2026-07-27",
   "menu": [
     {
       "day": "Monday",
-      "name": "Pinto Bean Salad with Lime and Fresh Herbs",
-      "url": "https://www.wholefoodsmarket.com/recipes/pinto-bean-salad",
-      "protein": "pinto beans",
+      "name": "White Bean Arugula Salad with Cherry Tomatoes and Balsamic",
+      "url": "https://www.loveandlemons.com/white-bean-salad/",
+      "protein": "white beans (cannellini)",
       "substitutions": "",
       "ingredients": [
-        "2 cups cooked pinto beans (from 1 cup dried pinto beans, soaked overnight)",
-        "1 small onion (for cooking beans)",
-        "2 bay leaves (for cooking beans)",
-        "2 tablespoons Dijon mustard",
-        "3 tablespoons fresh lime juice",
-        "2 cloves garlic, minced",
-        "2 tablespoons fresh parsley, chopped",
-        "2 tablespoons fresh cilantro, chopped",
-        "Salt and black pepper to taste",
-        "2 medium tomatoes, diced",
-        "1 red bell pepper, diced",
-        "1 cucumber, diced",
-        "2 celery stalks, diced"
-      ],
-      "night_of_steps_list": [
-        "The night before: Pick through 1 cup dried pinto beans, place in large bowl, cover with plenty of water and soak overnight (at least 8 hours). Refrigerate.",
-        "Day of: Drain and rinse soaked beans. Place in large pot and cover with 2 inches cold water. Add 1 small onion (quartered) and 2 bay leaves.",
-        "Bring to a boil and skim off any foam. Reduce heat, cover and simmer gently for 1 to 1.5 hours until beans are tender, stirring occasionally.",
-        "Drain beans and discard onion and bay leaves. Let beans cool slightly.",
-        "While beans cook, dice 2 tomatoes, 1 red bell pepper, 1 cucumber, and 2 celery stalks. Mince 2 cloves garlic. Chop 2 tablespoons each fresh parsley and cilantro.",
-        "In large bowl, whisk together 2 tablespoons Dijon mustard, 3 tablespoons lime juice, minced garlic, chopped parsley, chopped cilantro, salt and pepper.",
-        "Add diced vegetables to bowl and toss to combine with dressing.",
-        "Stir cooled beans into the salad.",
-        "Chill for at least 1 hour before serving to let flavors blend together."
-      ],
-      "agent_notes": []
-    },
-    {
-      "day": "Tuesday",
-      "name": "Lentil and Chickpea Salad with Radish and Herbs",
-      "url": "https://cookieandkate.com/lemony-lentil-and-chickpea-salad-with-radish-and-herbs/",
-      "protein": "lentils and chickpeas",
-      "substitutions": "",
-      "ingredients": [
-        "1/2 cup dried French green lentils, yields ~1.25 cups cooked",
-        "1/2 cup dried chickpeas, yields ~1.25 cups cooked",
-        "2 garlic cloves (for cooking lentils)",
-        "1 tablespoon olive oil (for cooking lentils)",
-        "1/2 cup radishes, chopped",
-        "1/4 cup fresh mint, chopped",
-        "1/4 cup fresh dill, chopped",
+        "2 cups cooked white beans (from 3/4 cup dried cannellini beans)",
+        "4 cups arugula",
+        "1.5 cups cherry tomatoes, halved",
+        "1/4 red onion, thinly sliced",
+        "1/4 cup fresh basil, chopped",
         "3 tablespoons extra virgin olive oil",
-        "3 tablespoons lemon juice",
-        "1 teaspoon honey or maple syrup",
+        "2 tablespoons balsamic vinegar",
+        "1 clove garlic, minced",
         "1/2 teaspoon Dijon mustard",
         "Salt and black pepper to taste"
       ],
       "night_of_steps_list": [
-        "Whisk together olive oil, lemon juice, honey, Dijon mustard, salt, and pepper for dressing",
-        "Combine cooked lentils, chickpeas, chopped radishes, mint, and dill in large bowl",
-        "Pour dressing over salad and toss well",
-        "Serve immediately or chill"
+        "Assemble arugula, cooked white beans, cherry tomatoes, red onion, and basil in a large bowl",
+        "Whisk together dressing ingredients and toss with salad",
+        "Season with salt and pepper and serve immediately"
       ],
-      "agent_notes": []
+      "agent_notes": [
+        "Simple assembly with weekend-prepped beans and pre-made dressing"
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "name": "Spiced Chickpea and Spinach Salad with Cumin-Lime Dressing",
+      "url": "https://www.feastingathome.com/chickpea-salad/",
+      "protein": "chickpeas",
+      "substitutions": "",
+      "ingredients": [
+        "2 cups cooked chickpeas (from 3/4 cup dried chickpeas)",
+        "1 tablespoon olive oil",
+        "1 teaspoon cumin",
+        "1/2 teaspoon smoked paprika",
+        "4 cups baby spinach",
+        "1 cucumber, diced",
+        "1 bell pepper, diced",
+        "1/2 red onion, thinly sliced",
+        "1/4 cup fresh cilantro, chopped",
+        "3 tablespoons olive oil (for dressing)",
+        "2 tablespoons fresh lime juice",
+        "1 teaspoon honey or maple syrup",
+        "1/2 teaspoon ground cumin (for dressing)",
+        "Salt and pepper to taste"
+      ],
+      "night_of_steps_list": [
+        "Toss cooked chickpeas with 1 tbsp olive oil, cumin, and paprika; roast at 400\u00b0F for 15 minutes until crispy",
+        "Combine spinach, cucumber, bell pepper, red onion, and cilantro in a large bowl",
+        "Add warm chickpeas, drizzle with prepared dressing, and toss to combine"
+      ],
+      "agent_notes": [
+        "Chickpeas get a quick roast for texture; most components prepped on weekend"
+      ]
     },
     {
       "day": "Wednesday",
-      "name": "Crispy Baked Tofu Salad with Tahini Dressing",
-      "url": "https://theplantbasedschool.com/tofu-salad/",
-      "protein": "tofu",
-      "substitutions": "Replace any kale with spinach or mixed greens",
+      "name": "Black Bean and Avocado Salad with Cilantro-Lime Vinaigrette",
+      "url": "https://www.acouplecooks.com/black-bean-salad/",
+      "protein": "black beans",
+      "substitutions": "",
       "ingredients": [
-        "14 oz extra-firm tofu, cubed",
-        "4 tablespoons cornstarch",
-        "1 teaspoon garlic powder",
-        "1 teaspoon paprika",
-        "1 teaspoon salt",
-        "1/4 teaspoon black pepper",
-        "2 tablespoons olive oil (for frying tofu)",
-        "4 cups mixed greens or spinach",
+        "2 cups cooked black beans (from 3/4 cup dried black beans)",
+        "5 cups romaine lettuce, chopped",
         "1 cup cherry tomatoes, halved",
-        "1 cucumber, sliced",
-        "1/2 red onion, thinly sliced",
-        "1/3 cup tahini",
-        "1/3 cup water",
-        "2 tablespoons lemon juice",
-        "1 garlic clove, crushed",
-        "1/4 teaspoon salt"
+        "1 avocado, diced",
+        "1/4 cup red onion, finely diced",
+        "1/4 cup fresh cilantro, chopped",
+        "3 tablespoons olive oil",
+        "2 tablespoons fresh lime juice",
+        "1 clove garlic, minced",
+        "1/2 teaspoon cumin",
+        "Salt and pepper to taste"
       ],
       "night_of_steps_list": [
-        "Whisk tahini, water, lemon juice, garlic, and salt for dressing; set aside",
-        "Mix cornstarch, garlic powder, paprika, salt, and pepper; coat tofu cubes",
-        "Heat olive oil in pan, fry tofu 12 minutes, flipping every 2-3 minutes until crispy",
-        "Arrange greens in bowl, top with tomatoes, cucumber, onion, and crispy tofu",
-        "Drizzle with tahini dressing and serve"
+        "Chop romaine lettuce and place in large serving bowl",
+        "Add cooked black beans, cherry tomatoes, red onion, and cilantro",
+        "Dice avocado fresh, add to salad, drizzle with prepared dressing and toss gently"
       ],
-      "agent_notes": []
+      "agent_notes": [
+        "Avocado diced fresh to prevent browning; everything else prepped ahead"
+      ]
     },
     {
       "day": "Thursday",
-      "name": "Mediterranean Kidney Bean Salad with Lemon-Garlic Dressing",
-      "url": "https://avirtualvegan.com/kidney-bean-salad-lemon-parsley/",
-      "protein": "kidney beans and chickpeas",
+      "name": "Buffalo Chickpea Salad with Creamy Ranch",
+      "url": "https://theplantbasedschool.com/buffalo-chickpea-salad/",
+      "protein": "chickpeas",
       "substitutions": "",
       "ingredients": [
-        "1/2 cup dried kidney beans, yields ~1.25 cups cooked",
-        "1/2 cup dried chickpeas, yields ~1.25 cups cooked",
-        "1 large cucumber, diced",
-        "1 cup cherry tomatoes, halved",
-        "1/2 red onion, finely chopped",
-        "1/2 cup fresh parsley, chopped",
-        "3 tablespoons extra virgin olive oil",
-        "3 tablespoons fresh lemon juice",
-        "2 small garlic cloves, minced or grated",
-        "1 teaspoon lemon zest",
-        "1-2 teaspoons sugar or maple syrup",
-        "1/2 teaspoon salt",
-        "1/4 teaspoon black pepper"
+        "2 cups cooked chickpeas (from 3/4 cup dried chickpeas)",
+        "3 tablespoons buffalo sauce",
+        "1 tablespoon olive oil",
+        "5 cups mixed greens",
+        "1 cup shredded carrots",
+        "1 cup celery, thinly sliced",
+        "1/4 cup red onion, thinly sliced",
+        "1/2 cup plain Greek yogurt",
+        "2 tablespoons mayonnaise or vegan mayo",
+        "1 tablespoon fresh lemon juice",
+        "1 clove garlic, minced",
+        "2 tablespoons fresh dill, chopped",
+        "1 tablespoon fresh chives, chopped",
+        "Salt and pepper to taste"
       ],
       "night_of_steps_list": [
-        "Combine cooked kidney beans and chickpeas in large salad bowl",
-        "Add diced cucumber, tomatoes, red onion, and parsley",
-        "Whisk together olive oil, lemon juice, garlic, lemon zest, sugar, salt, and pepper",
-        "Pour dressing over salad and toss well to combine",
-        "Serve immediately or chill"
+        "Toss cooked chickpeas with buffalo sauce and olive oil; roast at 400\u00b0F for 15-20 minutes",
+        "Combine mixed greens, carrots, celery, and red onion in a large bowl",
+        "Top with buffalo chickpeas and drizzle with prepared ranch dressing"
       ],
-      "agent_notes": []
+      "agent_notes": [
+        "Fun flavor twist with buffalo sauce; chickpeas roasted fresh for best texture"
+      ]
     },
     {
       "day": "Friday",
-      "name": "Paneer Salad with Spicy Greek Yogurt Dressing",
-      "url": "https://www.indianveggiedelight.com/paneer-salad/",
-      "protein": "paneer",
-      "substitutions": "Replace iceberg lettuce with romaine or mixed greens",
+      "name": "Lentil and Roasted Vegetable Salad with Lemon-Tahini Dressing",
+      "url": "https://www.loveandlemons.com/lentil-salad/",
+      "protein": "green or brown lentils",
+      "substitutions": "",
       "ingredients": [
-        "8 oz paneer, cubed",
-        "1-2 teaspoons oil for pan-frying",
-        "1/4 teaspoon salt",
-        "1/2 cup Greek yogurt (or hung curd)",
-        "2 tablespoons soaked cashews",
-        "1 garlic clove, minced",
-        "1/2 teaspoon red chili powder",
-        "1/2 teaspoon oregano or Italian herbs",
-        "1/4 teaspoon cumin powder",
-        "1/4 teaspoon red chili flakes",
-        "1 tablespoon lemon juice",
-        "1 teaspoon maple syrup",
-        "Salt to taste",
-        "1/2 red onion, sliced",
-        "1 cup cherry tomatoes, halved",
-        "1 cucumber, sliced",
-        "1 cup mixed bell peppers, diced",
-        "2 cups romaine lettuce, chopped"
+        "2 cups cooked green or brown lentils (from 3/4 cup dried lentils)",
+        "2 cups cherry tomatoes",
+        "1 red bell pepper, cut into chunks",
+        "1 yellow bell pepper, cut into chunks",
+        "1 small red onion, cut into wedges",
+        "2 tablespoons olive oil (for roasting)",
+        "5 cups mixed greens or spinach",
+        "1/4 cup fresh parsley, chopped",
+        "3 tablespoons tahini",
+        "3 tablespoons fresh lemon juice",
+        "2 tablespoons water",
+        "1 clove garlic, minced",
+        "Salt and pepper to taste"
       ],
       "night_of_steps_list": [
-        "Blend Greek yogurt, soaked cashews, garlic, spices, lemon juice, maple syrup, and salt until smooth",
-        "Heat oil in pan and pan-fry paneer cubes with salt until golden on all sides",
-        "Combine lettuce, bell peppers, onions, tomatoes, and cucumber in large bowl",
-        "Top with pan-fried paneer and drizzle with yogurt dressing",
-        "Toss and serve"
+        "Toss cherry tomatoes, bell peppers, and red onion with olive oil, salt, and pepper; roast at 425\u00b0F for 25 minutes",
+        "Arrange mixed greens on plates, top with cooked lentils and roasted vegetables",
+        "Drizzle with prepared lemon-tahini dressing and garnish with fresh parsley"
       ],
-      "agent_notes": []
+      "agent_notes": [
+        "Vegetables roasted fresh for optimal flavor; lentils and dressing prepped ahead"
+      ]
     },
     {
       "day": "Saturday",
-      "name": "Edamame Rainbow Salad with Sesame Ginger Dressing",
-      "url": "https://www.ambitiouskitchen.com/asian-edamame-salad-with-cilantro-and-toasted-almonds/",
-      "protein": "edamame",
+      "name": "Indian-Spiced Kidney Bean and Spinach Salad with Mint-Yogurt Dressing",
+      "url": "https://www.indianhealthyrecipes.com/rajma-salad-kidney-beans-salad/",
+      "protein": "kidney beans",
       "substitutions": "",
       "ingredients": [
-        "2 cups shelled edamame (frozen, thawed)",
-        "2 cups red cabbage, shredded",
-        "1 cup carrots, shredded",
-        "1 orange bell pepper, diced",
-        "1 red bell pepper, diced",
-        "2 Persian cucumbers, diced",
-        "4 green onions, sliced",
-        "1/2 cup fresh cilantro, chopped",
-        "1/4 cup soy sauce or tamari",
-        "3 tablespoons rice vinegar",
-        "2 tablespoons toasted sesame oil",
-        "2 tablespoons olive oil",
-        "2 tablespoons maple syrup",
-        "1 tablespoon fresh ginger, grated",
-        "2 garlic cloves, minced",
-        "1/4 cup toasted sliced almonds",
-        "2 tablespoons sesame seeds"
+        "2 cups cooked kidney beans (from 3/4 cup dried kidney beans)",
+        "1 teaspoon olive oil",
+        "1/2 teaspoon cumin seeds",
+        "1/2 teaspoon coriander powder",
+        "1/4 teaspoon turmeric",
+        "5 cups baby spinach",
+        "1 cucumber, diced",
+        "1 tomato, diced",
+        "1/4 red onion, finely diced",
+        "1 green chili, minced (optional)",
+        "1/2 cup plain Greek yogurt",
+        "2 tablespoons fresh mint, chopped",
+        "1 tablespoon fresh lemon juice",
+        "1 clove garlic, minced",
+        "Salt and pepper to taste"
       ],
       "night_of_steps_list": [
-        "If using frozen edamame, thaw under warm water and drain well",
-        "Combine edamame, cabbage, cucumbers, bell peppers, carrots, cilantro, and green onions in large bowl",
-        "Whisk together soy sauce, rice vinegar, sesame oil, olive oil, maple syrup, ginger, and garlic",
-        "Pour dressing over salad and toss to combine",
-        "Top with toasted almonds and sesame seeds, serve"
+        "Heat olive oil and cumin seeds until fragrant; toss with cooked kidney beans, coriander, and turmeric",
+        "Combine spinach, cucumber, tomato, red onion, and green chili in a large bowl",
+        "Add spiced kidney beans, drizzle with prepared mint-yogurt dressing, and toss to combine"
       ],
-      "agent_notes": []
+      "agent_notes": [
+        "Quick spice blooming adds warmth; kidney beans cooked ahead for convenience"
+      ]
     },
     {
       "day": "Sunday",
-      "name": "Green Lentil Salad with Za'atar and Roasted Red Peppers",
-      "url": "https://feelgoodfoodie.net/recipe/lentil-salad/",
-      "protein": "lentils and chickpeas",
+      "name": "Marinated Tofu and Arugula Salad with Ginger-Miso Dressing",
+      "url": "https://minimalistbaker.com/marinated-peanut-tempeh-bowls/",
+      "protein": "tofu",
       "substitutions": "",
       "ingredients": [
-        "1/2 cup dried green lentils, yields ~1.25 cups cooked",
-        "1/2 cup dried chickpeas, yields ~1.25 cups cooked",
-        "1 large cucumber, diced",
-        "1 cup roasted red peppers (jarred), diced",
-        "1/2 red onion, finely diced",
-        "1/2 cup fresh parsley, chopped",
-        "3 tablespoons extra virgin olive oil",
-        "3 tablespoons lemon juice",
-        "1 teaspoon lemon zest",
-        "2 garlic cloves, minced",
-        "2 teaspoons za'atar",
-        "1 teaspoon salt",
-        "1/2 teaspoon black pepper"
+        "14 oz extra-firm tofu, pressed and cubed",
+        "2 tablespoons soy sauce or tamari",
+        "1 tablespoon rice vinegar",
+        "1 tablespoon maple syrup",
+        "1 teaspoon sesame oil",
+        "1 tablespoon olive oil (for cooking)",
+        "5 cups arugula",
+        "1 cup shredded red cabbage",
+        "1 cup shredded carrots",
+        "1/4 cup green onions, sliced",
+        "2 tablespoons white miso paste",
+        "2 tablespoons rice vinegar (for dressing)",
+        "1 tablespoon fresh ginger, grated",
+        "1 tablespoon sesame oil (for dressing)",
+        "1 tablespoon maple syrup (for dressing)",
+        "2 tablespoons water",
+        "1 tablespoon sesame seeds for garnish"
       ],
       "night_of_steps_list": [
-        "Cook lentils in salted boiling water until tender, about 20 minutes; drain and rinse in cold water",
-        "Combine cooked lentils, chickpeas, cucumber, roasted red peppers, red onion, and parsley in large bowl",
-        "Whisk together olive oil, lemon juice, lemon zest, garlic, za'atar, salt, and pepper",
-        "Pour dressing over salad and toss gently to combine",
-        "Serve immediately or chill"
+        "Marinate pressed tofu cubes in soy sauce, rice vinegar, maple syrup, and sesame oil for 15 minutes",
+        "Pan-fry marinated tofu in olive oil over medium-high heat until golden and crispy, about 10 minutes",
+        "Combine arugula, red cabbage, carrots, and green onions; top with crispy tofu, drizzle with prepared ginger-miso dressing, and garnish with sesame seeds"
       ],
-      "agent_notes": []
+      "agent_notes": [
+        "Tofu marinated and cooked fresh for best texture; vegetables and dressing prepped ahead"
+      ]
     }
   ],
   "weekend_prep": {
     "saturday": [
-      "Soak 1 cup dried white beans in water (for Monday) - Saturday 9pm",
-      "Soak 1/2 cup dried French green lentils in water (for Tuesday) - Saturday 9pm",
-      "Soak 1 cup dried chickpeas in water (for Tuesday and Thursday) - Saturday 9pm",
-      "Soak 1/2 cup dried kidney beans in water (for Thursday) - Saturday 9pm",
-      "Soak 1 cup dried green lentils in water (for Sunday) - Saturday 9pm"
+      "Soak chickpeas (1.5 cups dried) in cold water, 8pm Saturday for 12 hours",
+      "Soak white beans (3/4 cup dried) in cold water, 8pm Saturday for 12 hours",
+      "Soak black beans (3/4 cup dried) in cold water, 8pm Saturday for 12 hours"
     ],
     "sunday": [
-      "Cook white beans: drain, add to pot with 2 inches water, boil then simmer 60-90 minutes until tender; drain and cool",
-      "Cook French green lentils: drain, add to pot with garlic and olive oil, cover with 4 cups water, boil then simmer 20-35 minutes; drain and cool",
-      "Cook chickpeas: drain, add to pot with 2 inches water, boil then simmer 60-90 minutes until tender; drain and cool (divide into 2 portions for Tuesday and Thursday)",
-      "Cook kidney beans: drain, add to pot with 2 inches water, boil then simmer 60-90 minutes until tender; drain and cool",
-      "Cook green lentils: drain, add to pot with water, boil then simmer 20-30 minutes; drain and cool",
-      "Prep vegetables: wash and dry all salad greens, store in containers with paper towels",
-      "Chop vegetables: dice cucumbers (store in airtight containers), slice radishes, dice bell peppers",
-      "Chop herbs: parsley, mint, dill, cilantro (store separately in damp paper towels in containers)",
-      "Make dressing jars: prepare lemon-olive oil dressings for Monday, Thursday, Sunday (store refrigerated)",
-      "Toast nuts and seeds: almonds, sesame seeds for Saturday (store in airtight container)",
-      "Soak cashews for Friday's dressing (2 hours in warm water)"
+      "Cook soaked chickpeas: drain, add fresh water, simmer 60-90 minutes until tender; yield 3.75 cups (use for Tuesday & Thursday)",
+      "Cook soaked white beans: drain, add fresh water, simmer 60-75 minutes until tender; yield 2 cups (use for Monday)",
+      "Cook soaked black beans: drain, add fresh water, simmer 60-90 minutes until tender; yield 2 cups (use for Wednesday)",
+      "Cook lentils (3/4 cup dried): rinse, simmer in 2 cups water for 20-25 minutes until tender; yield 2 cups (use for Friday)",
+      "Cook kidney beans (3/4 cup dried): rinse, boil for 10 minutes, then simmer 60-75 minutes until tender; yield 2 cups (use for Saturday)",
+      "Wash and dry all greens: arugula, spinach, mixed greens, romaine; store in containers with paper towels",
+      "Chop vegetables: halve cherry tomatoes (4.5 cups total), dice cucumbers (2 total), dice bell peppers (3 total), slice red onions (1.5 total)",
+      "Shred carrots (2 cups) and red cabbage (1 cup)",
+      "Slice celery (1 cup)",
+      "Press tofu: wrap 14 oz extra-firm tofu in towels, press with weight for 30 minutes, cube and refrigerate",
+      "Make Monday's dressing: whisk balsamic vinegar, olive oil, garlic, Dijon, salt, pepper; store in jar",
+      "Make Tuesday's dressing: whisk lime juice, olive oil, cumin, honey/maple, salt, pepper; store in jar",
+      "Make Wednesday's dressing: whisk lime juice, olive oil, garlic, cumin, cilantro, salt, pepper; store in jar",
+      "Make Thursday's ranch dressing: mix Greek yogurt, mayo, lemon juice, garlic, dill, chives, salt, pepper; store in jar",
+      "Make Friday's tahini dressing: whisk tahini, lemon juice, water, garlic, salt, pepper; store in jar",
+      "Make Saturday's mint-yogurt dressing: mix Greek yogurt, mint, lemon juice, garlic, salt, pepper; store in jar",
+      "Make Sunday's ginger-miso dressing: whisk miso, rice vinegar, ginger, sesame oil, maple syrup, water; store in jar",
+      "Chop fresh herbs: basil (1/4 cup), cilantro (1/2 cup), parsley (1/4 cup), mint (2 tbsp), dill (2 tbsp), chives (1 tbsp); store separately"
     ]
   },
   "bean_schedule": [
     {
+      "bean": "chickpeas",
+      "dried_amount": "1.5 cups",
+      "soak": "Saturday 8pm, 12 hours",
+      "cook": "Sunday morning, drain and simmer 60-90 minutes",
+      "used_in": [
+        "Tuesday",
+        "Thursday"
+      ]
+    },
+    {
       "bean": "white beans (cannellini)",
-      "dried_amount": "1 cup",
-      "soak": "Saturday 9pm, 12 hours",
-      "cook": "Sunday morning, simmer 60-90 min",
+      "dried_amount": "3/4 cup",
+      "soak": "Saturday 8pm, 12 hours",
+      "cook": "Sunday morning, drain and simmer 60-75 minutes",
       "used_in": [
         "Monday"
       ]
     },
     {
-      "bean": "French green lentils",
-      "dried_amount": "1/2 cup",
-      "soak": "Saturday 9pm, 12 hours (optional for lentils)",
-      "cook": "Sunday, simmer 20-35 min with garlic",
+      "bean": "black beans",
+      "dried_amount": "3/4 cup",
+      "soak": "Saturday 8pm, 12 hours",
+      "cook": "Sunday morning, drain and simmer 60-90 minutes",
       "used_in": [
-        "Tuesday"
+        "Wednesday"
       ]
     },
     {
-      "bean": "chickpeas",
-      "dried_amount": "1 cup total",
-      "soak": "Saturday 9pm, 12 hours",
-      "cook": "Sunday, simmer 60-90 min",
+      "bean": "green or brown lentils",
+      "dried_amount": "3/4 cup",
+      "soak": "none needed",
+      "cook": "Sunday, rinse and simmer 20-25 minutes",
       "used_in": [
-        "Tuesday (1/2 cup dried)",
-        "Thursday (1/2 cup dried)"
+        "Friday"
       ]
     },
     {
       "bean": "kidney beans",
-      "dried_amount": "1/2 cup",
-      "soak": "Saturday 9pm, 12 hours",
-      "cook": "Sunday, simmer 60-90 min",
+      "dried_amount": "3/4 cup",
+      "soak": "none (but recommended for 4-8 hours to reduce cooking time)",
+      "cook": "Sunday, boil hard for 10 minutes, then simmer 60-75 minutes",
       "used_in": [
-        "Thursday"
-      ]
-    },
-    {
-      "bean": "green lentils",
-      "dried_amount": "1 cup total",
-      "soak": "Saturday 9pm, 12 hours (optional for lentils)",
-      "cook": "Sunday, simmer 20-30 min",
-      "used_in": [
-        "Sunday (1/2 cup dried)"
+        "Saturday"
       ]
     }
   ],
   "shopping_list": {
     "produce": [
-      "Mixed greens or spinach (12 cups total)",
-      "Romaine lettuce (2 cups)",
-      "Cucumbers (8 large or 6 Persian)",
-      "Cherry tomatoes (5 cups)",
-      "Red onions (3 medium)",
-      "Green onions (7)",
-      "Radishes (1 bunch)",
-      "Red bell peppers (4)",
-      "Orange bell pepper (1)",
-      "Red cabbage (1 small head or 2 cups pre-shredded)",
-      "Carrots (2 cups shredded)",
-      "Fresh parsley (3 bunches)",
-      "Fresh mint (2 bunches)",
-      "Fresh dill (1 bunch)",
-      "Fresh cilantro (1 bunch)",
-      "Lemons (8)",
-      "Garlic (2 heads)",
-      "Fresh ginger (1 knob)"
+      "Arugula (9 cups / about 2 containers)",
+      "Baby spinach (9 cups / about 2 containers)",
+      "Mixed greens (10 cups / about 2 containers)",
+      "Romaine lettuce (5 cups / 1 large head)",
+      "Cherry tomatoes (4.5 cups)",
+      "Cucumbers (2 medium)",
+      "Bell peppers: 1 red, 2 yellow, 1 additional for roasting",
+      "Red onions (2 medium)",
+      "Carrots (3-4 medium for shredding)",
+      "Red cabbage (1 small head)",
+      "Celery (3-4 stalks)",
+      "Avocado (1 large)",
+      "Green onions (1 bunch)",
+      "Fresh basil (1 small bunch)",
+      "Fresh cilantro (1 large bunch)",
+      "Fresh parsley (1 bunch)",
+      "Fresh mint (1 small bunch)",
+      "Fresh dill (1 small bunch)",
+      "Fresh chives (1 small bunch)",
+      "Garlic (1 head)",
+      "Fresh ginger (1 small knob)",
+      "Limes (4-5)",
+      "Lemons (3-4)",
+      "Green chili (1, optional)"
     ],
     "dried_beans_legumes": [
-      "1 cup dried white beans (cannellini or great northern)",
-      "1/2 cup dried French green lentils",
-      "1 cup dried chickpeas",
-      "1/2 cup dried kidney beans",
-      "1 cup dried green lentils (for Sunday)",
-      "2 cups frozen shelled edamame"
+      "Dried chickpeas (1.5 cups)",
+      "Dried white beans/cannellini (3/4 cup)",
+      "Dried black beans (3/4 cup)",
+      "Dried green or brown lentils (3/4 cup)",
+      "Dried kidney beans (3/4 cup)",
+      "Extra-firm tofu (14 oz)"
     ],
     "dairy_and_other": [
-      "14 oz extra-firm tofu",
-      "8 oz paneer (Indian cottage cheese)",
-      "Greek yogurt or hung curd (1/2 cup)"
+      "Plain Greek yogurt (16 oz container)",
+      "Mayonnaise or vegan mayo (small jar)"
     ],
     "pantry_check": [
       "Extra virgin olive oil",
-      "Toasted sesame oil",
-      "Tahini",
-      "Soy sauce or tamari",
+      "Sesame oil",
+      "Balsamic vinegar",
       "Rice vinegar",
-      "Cornstarch",
-      "Za'atar (2 teaspoons)",
-      "Sumac (1/2 teaspoon)",
-      "Aleppo pepper or red pepper flakes",
-      "Cumin powder",
-      "Paprika",
-      "Garlic powder",
-      "Red chili powder",
-      "Oregano or Italian herbs",
-      "Red chili flakes",
       "Dijon mustard",
-      "Honey or maple syrup",
-      "Raw cashews (2 tablespoons)",
-      "Sliced almonds (1/4 cup)",
-      "Sesame seeds (3 tablespoons)",
-      "Roasted red peppers (jarred, 1 cup)",
+      "Tahini",
+      "White miso paste",
+      "Soy sauce or tamari",
+      "Maple syrup or honey",
+      "Buffalo sauce",
+      "Ground cumin",
+      "Cumin seeds",
+      "Coriander powder",
+      "Turmeric",
+      "Smoked paprika",
+      "Sesame seeds",
       "Salt and black pepper"
     ]
   }

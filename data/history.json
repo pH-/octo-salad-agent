@@ -81,6 +81,47 @@
           "url": "https://feelgoodfoodie.net/recipe/lentil-salad/"
         }
       ]
+    },
+    {
+      "week_of": "2026-07-27",
+      "generated_on": "2026-07-24",
+      "recipes": [
+        {
+          "day": "Monday",
+          "name": "White Bean Arugula Salad with Cherry Tomatoes and Balsamic",
+          "url": "https://www.loveandlemons.com/white-bean-salad/"
+        },
+        {
+          "day": "Tuesday",
+          "name": "Spiced Chickpea and Spinach Salad with Cumin-Lime Dressing",
+          "url": "https://www.feastingathome.com/chickpea-salad/"
+        },
+        {
+          "day": "Wednesday",
+          "name": "Black Bean and Avocado Salad with Cilantro-Lime Vinaigrette",
+          "url": "https://www.acouplecooks.com/black-bean-salad/"
+        },
+        {
+          "day": "Thursday",
+          "name": "Buffalo Chickpea Salad with Creamy Ranch",
+          "url": "https://theplantbasedschool.com/buffalo-chickpea-salad/"
+        },
+        {
+          "day": "Friday",
+          "name": "Lentil and Roasted Vegetable Salad with Lemon-Tahini Dressing",
+          "url": "https://www.loveandlemons.com/lentil-salad/"
+        },
+        {
+          "day": "Saturday",
+          "name": "Indian-Spiced Kidney Bean and Spinach Salad with Mint-Yogurt Dressing",
+          "url": "https://www.indianhealthyrecipes.com/rajma-salad-kidney-beans-salad/"
+        },
+        {
+          "day": "Sunday",
+          "name": "Marinated Tofu and Arugula Salad with Ginger-Miso Dressing",
+          "url": "https://minimalistbaker.com/marinated-peanut-tempeh-bowls/"
+        }
+      ]
     }
   ]
 }
